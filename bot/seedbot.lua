@@ -220,9 +220,9 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {94477327},--Sudo users
+    sudo_users = {94477327,175278176},--Sudo users
     disabled_channels = {},
-    realm = {175278176},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Tele.Gp V3.0
 
