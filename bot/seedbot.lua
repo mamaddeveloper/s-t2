@@ -224,16 +224,10 @@ function create_config( )
     disabled_channels = {},
     realm = {53167206},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V3.0
+    about_text = [[Tele.Gp V3.0
 
 Admins
-@WilSoN_DeVeLoPeR
-
-Special thanks to
-@Dawsh_Alfred
-
-our channel
-@W_SaTaN_w_chnnl
+@GenerouMan_bot
 ]],
     help_text = [[
 Commands list :
