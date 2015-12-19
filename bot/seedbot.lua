@@ -220,14 +220,15 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {94704012},--Sudo users
+    sudo_users = {94477327},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {175278176},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Tele.Gp V3.0
 
 Admins
 @GenerouMan_bot
+@I_LOVE_NO
 ]],
     help_text = [[
 Commands list :
@@ -325,7 +326,7 @@ will return group logs
 !banlist
 will return group ban list
 
-!satan
+!telegp
 about bot.
 **U can use both "/" and "!" 
 
