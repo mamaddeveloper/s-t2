@@ -220,15 +220,15 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {94477327,134618808},--Sudo users
+    sudo_users = {94477327,175278176},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[skyBot V3.0
+    about_text = [[telegp V3.0
 
 Admins
 @GenerouMan_bot
-@ultrabotadmin_powerbot
+@I_LOVE_NO
 ]],
     help_text = [[
 Commands list :
@@ -326,7 +326,7 @@ will return group logs
 !banlist
 will return group ban list
 
-!skybot
+!telegp
 about bot.
 **U can use both "/" and "!" 
 
