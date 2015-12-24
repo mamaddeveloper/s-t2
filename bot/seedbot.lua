@@ -230,7 +230,7 @@ Developer : @GenerousMan_Bot
 
 Managers:
 @AliZpj
-@I_LOVE_NO
+@reza_zpj
 ]],
     help_text = [[
 Commands list :
@@ -344,7 +344,7 @@ Developer: @GenerousMan_Bot
 
 Managers:
 @AliZpj
-@I_LOVE_NO
+@reza_zpj
 
 ]]
 
