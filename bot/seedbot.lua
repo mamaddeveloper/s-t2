@@ -220,14 +220,16 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {94477327,175278176,114041623},--Sudo users
+    sudo_users = {94477327,175278176,169530637},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[telegp V3.0
+    about_text = [[Tele Zpj V3.0
 
-Admins
-@GenerouMan_bot
+Developer : @GenerousMan_Bot
+
+Managers:
+@AliZpj
 @I_LOVE_NO
 ]],
     help_text = [[
@@ -337,6 +339,12 @@ about bot.
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
+
+Developer: @GenerousMan_Bot
+
+Managers:
+@AliZpj
+@I_LOVE_NO
 
 ]]
 
