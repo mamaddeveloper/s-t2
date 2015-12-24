@@ -91,7 +91,7 @@ local function bot_stats()
   return text
 end
 local function run(msg, matches)
-  if matches[1]:lower() == 'satan' then -- Put everything you like :)
+  if matches[1]:lower() == 'telezpj' then -- Put everything you like :)
     local about = _config.about_text
     local name = user_print_name(msg.from)
     savelog(msg.to.id, name.." ["..msg.from.id.."] used /telegp ")
@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "satan" then -- Put everything you like :)
+    if matches[2] == "telezpj" then -- Put everything you like :)
       if not is_admin(msg) then
         return "For admins only !"
       else
@@ -141,8 +141,8 @@ return {
     "^[!/]([Ss]tats)$",
     "^[!/]([Ss]tatslist)$",
     "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) (telegp)",-- Put everything you like :)
-		"^[!/]([Tt]elegp)"-- Put everything you like :)
+    "^[!/]([Ss]tats) (telezpj)",-- Put everything you like :)
+		"^[!/]([Tt]elezpj)"-- Put everything you like :)
     }, 
   run = run
 }
