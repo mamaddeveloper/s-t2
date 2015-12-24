@@ -222,7 +222,7 @@ function create_config( )
     },
     sudo_users = {94477327,175278176,169530637},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {92913551},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Tele Zpj V3.0
 
