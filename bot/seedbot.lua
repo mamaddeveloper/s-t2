@@ -220,17 +220,14 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {94477327,175278176,173666523,144976651},--Sudo users
+    sudo_users = {94477327},--Sudo users
     disabled_channels = {},
-    realm = {92913551},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Persia V3.0
+    about_text = [[𝔐𝔯.𝔐𝔞𝔐𝔞𝔇 V3.0
 
 Developer : @GenerousMan_Bot
 
-Managers:
-@Mohsen_takavar
-@ReZa_AdMiN_acc2
 
 ]],
     help_text = [[
@@ -329,7 +326,7 @@ will return group logs
 !banlist
 will return group ban list
 
-!persia
+!mamad
 about bot.
 **U can use both "/" and "!" 
 
@@ -341,6 +338,10 @@ about bot.
 
 *Only owner can use res,setowner,promote,demote and log commands
 
+This Is 𝔐𝔯.𝔐𝔞𝔐𝔞𝔇 age gp mikhay...be
+in id pm bede....
+
+Developer: @GenerousMan_Bot
 ]]
 
   }
