@@ -142,7 +142,7 @@ return {
     "^[!/]([Ss]tatslist)$",
     "^[!/]([Ss]tats) (group) (%d+)",
     "^[!/]([Ss]tats) (persia)",-- Put everything you like :)
-		"^[!/]([Pp]ersia)"-- Put everything you like :)
+    "^[!/]([Pp]ersia)"-- Put everything you like :)
     }, 
   run = run
 }
