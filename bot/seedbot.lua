@@ -224,13 +224,14 @@ function create_config( )
     disabled_channels = {},
     realm = {92913551},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Tele Zpj V3.0
+    about_text = [[Persia V3.0
 
 Developer : @GenerousMan_Bot
 
 Managers:
-@AliZpj
-@reza_zpj
+@Mohsen_takavar
+@ReZa_AdMiN_acc2
+
 ]],
     help_text = [[
 Commands list :
@@ -328,7 +329,7 @@ will return group logs
 !banlist
 will return group ban list
 
-!telegp
+!persia
 about bot.
 **U can use both "/" and "!" 
 
@@ -339,12 +340,6 @@ about bot.
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
-
-Developer: @GenerousMan_Bot
-
-Managers:
-@AliZpj
-@reza_zpj
 
 ]]
 
